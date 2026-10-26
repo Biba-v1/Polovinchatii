@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Bisek/Bisek.vcxproj" Id="26835b88-161b-49ae-8682-4626abf4e4ce" />
+</Solution>
